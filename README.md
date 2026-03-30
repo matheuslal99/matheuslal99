@@ -1,11 +1,10 @@
 # Olá, eu sou Matheus
 
-🎓 Biólogo | 📊 Analista de Dados em formação  
-📍 Brasil  
+## Analista de Dados e Biólogo
 
 ---
 
-## Sobre mim
+### Sobre mim
 
 Sou biólogo com forte experiência em análise de dados, atualmente focado em transição para a área de Data Analytics.
 
@@ -22,20 +21,7 @@ Atualmente estudando:
 
 ---
 
-## Projetos em destaque
-
-### Análise de Vendas - BikeStores
-Projeto completo de análise de dados utilizando SQL.
-
-🔹 Limpeza e validação de dados  
-🔹 Análise de receita e crescimento  
-🔹 Identificação de padrões de consumo  
-
-👉 Em breve: Dashboard no Power BI
-
----
-
-## Tecnologias
+### Tecnologias
 
 - SQL
 - Power BI
@@ -45,6 +31,6 @@ Projeto completo de análise de dados utilizando SQL.
 
 ---
 
-## Contato
+### Contato
 
 - LinkedIn: www.linkedin.com/in/matheus-lal
