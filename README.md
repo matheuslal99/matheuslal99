@@ -1,16 +1,50 @@
-## Hi there 👋
+# Olá, eu sou Matheus
 
-<!--
-**matheuslal99/matheuslal99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Biólogo | 📊 Analista de Dados em formação  
+📍 Brasil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+Sou biólogo com forte experiência em análise de dados, atualmente focado em transição para a área de Data Analytics.
+
+Tenho experiência com:
+- Análise de dados ambientais
+- Estatística aplicada
+- Geoprocessamento
+
+Atualmente estudando:
+- SQL
+- Power BI
+- Python para análise de dados
+- Machine learning
+
+---
+
+## Projetos em destaque
+
+### Análise de Vendas - BikeStores
+Projeto completo de análise de dados utilizando SQL.
+
+🔹 Limpeza e validação de dados  
+🔹 Análise de receita e crescimento  
+🔹 Identificação de padrões de consumo  
+
+👉 Em breve: Dashboard no Power BI
+
+---
+
+## Tecnologias
+
+- SQL
+- Power BI
+- R
+- Python
+- Excel
+
+---
+
+## Contato
+
+- LinkedIn: www.linkedin.com/in/matheus-lal
