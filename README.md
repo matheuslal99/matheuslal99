@@ -34,9 +34,19 @@ Atualmente estudando:
 ### 📂 Portfólio e Projetos
 
 #### 🚲 Análise de Vendas — Bike Stores
-Análise completa de vendas utilizando SQL Server, cobrindo qualidade de dados, receita, produtos, lojas e sazonalidade.
 
-🔗 [Acesse o repositório](https://github.com/matheuslal99/portfolio-bike-stores)
+Análise completa de vendas cobrindo verificação de qualidade de dados, modelagem dimensional, medidas DAX com inteligência temporal e dashboard interativo no Power BI com drill through e tooltips dinâmicos.
+
+**Principais insights encontrados:**
+- Baldwin Bikes concentra 70% da receita total — risco de concentração significativo
+- Mountain Bikes lidera em todas as lojas sem exceção
+- Dois perfis de cliente distintos: Trek (alto valor) vs Electra/Surly (alto volume)
+- Padrão sazonal consistente: março é o melhor mês, janeiro o pior
+
+[![Dashboard](https://raw.githubusercontent.com/matheuslal99/portfolio-bike-stores/main/bike-stores/Screenshot_1.png)](https://app.powerbi.com/view?r=eyJrIjoiNjY2MDQzYjgtOWMyYy00MWFhLWI4MzQtMWVkMDg4ZGE1ZDk3IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+
+🔗 [Acesse o Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiNjY2MDQzYjgtOWMyYy00MWFhLWI4MzQtMWVkMDg4ZGE1ZDk3IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+📁 [Acesse o repositório no GitHub](https://github.com/matheuslal99/portfolio-bike-stores)
 
 ---
 
