@@ -35,7 +35,9 @@ Atualmente estudando:
 
 ### Análise de Vendas — Bike Stores
 
-[![Dashboard](https://raw.githubusercontent.com/matheuslal99/portfolio-bike-stores/main/bike-stores/Screenshot_1.png)](https://app.powerbi.com/view?r=eyJrIjoiNjY2MDQzYjgtOWMyYy00MWFhLWI4MzQtMWVkMDg4ZGE1ZDk3IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNjY2MDQzYjgtOWMyYy00MWFhLWI4MzQtMWVkMDg4ZGE1ZDk3IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9">
+  <img src="https://raw.githubusercontent.com/matheuslal99/portfolio-bike-stores/main/bike-stores/Screenshot_1.png" width="400"/>
+</a>
 
 Projeto de análise de vendas desenvolvido com **SQL Server** e **Power BI**. Inclui verificação de qualidade de dados, modelagem dimensional, medidas DAX com inteligência temporal e dashboard interativo com drill through e tooltips dinâmicos.
 
