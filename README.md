@@ -41,7 +41,7 @@ Atualmente estudando:
 
 Projeto de análise de vendas desenvolvido com **SQL Server** e **Power BI**. Inclui verificação de qualidade de dados, modelagem dimensional, medidas DAX com inteligência temporal e dashboard interativo com drill through e tooltips dinâmicos.
 
-[Repositório no GitHub]([Repositório no GitHub](https://github.com/matheuslal99/portfolio-bike-stores/tree/main/bike-stores) | [Acesse o Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiNjY2MDQzYjgtOWMyYy00MWFhLWI4MzQtMWVkMDg4ZGE1ZDk3IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+[Repositório no GitHub](https://github.com/matheuslal99/portfolio-bike-stores/tree/main/bike-stores) | [Acesse o Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiNjY2MDQzYjgtOWMyYy00MWFhLWI4MzQtMWVkMDg4ZGE1ZDk3IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 ---
 
 ### 📬 Contato
